@@ -1,3 +1,10 @@
+### [0.1.1](https://github.com/kaartni/project-template/compare/0.1.0...0.1.1) (2021-02-25)
+
+
+### Chores
+
+* add license ([236d8c8](https://github.com/kaartni/project-template/commit/236d8c8d7424ca6e666e1930438b982ab8f985f8))
+
 ## [0.1.0](https://github.com/kaartni/project-template/compare/0.0.2...0.1.0) (2021-02-25)
 
 
