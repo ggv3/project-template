@@ -9,7 +9,7 @@
     "lint": "eslint",
     "lint:fix": "eslint --fix",
     "postinstall": "husky install",
-    "release": "release-it --dry-run"
+    "release": "release-it --ci --dry-run"
   },
   "author": "Niko Kaartinen",
   "license": "ISC",
