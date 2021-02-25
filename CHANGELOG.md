@@ -1,3 +1,10 @@
+## [0.1.0](https://github.com/kaartni/project-template/compare/0.0.2...0.1.0) (2021-02-25)
+
+
+### Features
+
+* add README ([64ae58a](https://github.com/kaartni/project-template/commit/64ae58ad111e6e7ce8fa2fe949a4332a293bf7f7))
+
 ### 0.0.2 (2021-02-25)
 
 
