@@ -15,8 +15,6 @@ This is a project template that can be copied for new projects. Repo has been in
 
 This project uses slightly modified [Angular commit guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) which are enforced by Commitizen and `CHANGELOG.md` is automatically generated from commits messages.
 
-For my personal uses I have less change types and every change is written to changelog. If you wish to use strict angular commit guidelines you need to delete `types` from `commitizen` and change `"preset": "angular"` from `@release-it/conventional-changelog` in `package.json`
-
 Release commits are made when new code is pushed in `dev` branch.
 
 ### How to use
