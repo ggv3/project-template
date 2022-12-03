@@ -1,5 +1,12 @@
 
 
+# [0.3.0](https://github.com/ggv3/project-template/compare/0.1.1...0.3.0) (2022-12-03)
+
+
+### Features
+
+* update dependencies ([e96ef1d](https://github.com/ggv3/project-template/commit/e96ef1db7720d7f2e8da877b3c6d5c65bb2bce0c))
+
 # [0.2.0](https://github.com/ggv3/project-template/compare/0.1.1...0.2.0) (2022-12-03)
 
 
