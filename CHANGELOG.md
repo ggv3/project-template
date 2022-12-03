@@ -1,3 +1,12 @@
+
+
+# [0.2.0](https://github.com/ggv3/project-template/compare/0.1.1...0.2.0) (2022-12-03)
+
+
+### Features
+
+* update dependencies ([e96ef1d](https://github.com/ggv3/project-template/commit/e96ef1db7720d7f2e8da877b3c6d5c65bb2bce0c))
+
 ### [0.1.1](https://github.com/kaartni/project-template/compare/0.1.0...0.1.1) (2021-02-25)
 
 
@@ -23,4 +32,3 @@
 * add missing .babelrc and synchronous ci steps ([9ccf021](https://github.com/kaartni/project-template/commit/9ccf021769b7c3a22cc7b1e383610e48a271c316))
 * add structure for project template with conventional changelog commit structure ([7af25fa](https://github.com/kaartni/project-template/commit/7af25fa2908eeed3907c4632f0dac28c8cc6a532))
 * github action testing ([4230bef](https://github.com/kaartni/project-template/commit/4230beff2367a1d5b69702ba1fe3878522aa662d))
-
