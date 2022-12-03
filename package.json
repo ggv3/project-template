@@ -14,22 +14,22 @@
   "author": "Niko Kaartinen",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.13.0",
-    "@babel/core": "^7.13.1",
-    "@babel/node": "^7.13.0",
-    "@babel/preset-env": "^7.13.5",
-    "@release-it/conventional-changelog": "^2.0.1",
-    "@types/jest": "^26.0.20",
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/node": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@release-it/conventional-changelog": "^5.1.1",
+    "@types/jest": "^29.2.3",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.20.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "husky": "^5.1.1",
-    "jest": "^26.6.3",
-    "nodemon": "^2.0.7",
-    "prettier": "^2.2.1",
-    "release-it": "^14.4.1"
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.2",
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.0",
+    "release-it": "^15.5.1"
   },
   "jest": {
     "coverageThreshold": {
@@ -42,26 +42,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "disableScopeLowerCase": true,
-      "types": {
-        "feat": {
-          "description": "A new feature",
-          "title": "Features"
-        },
-        "fix": {
-          "description": "A bug fix",
-          "title": "Fixes"
-        },
-        "test": {
-          "description": "Add missing tests or correcting existing tests",
-          "title": "Tests"
-        },
-        "chore": {
-          "description": "Other changes that don't modify src or test files",
-          "title": "Chores"
-        }
-      }
+      "path": "./node_modules/cz-conventional-changelog"
     }
   },
   "release-it": {
@@ -80,29 +61,7 @@
     "plugins": {
       "@release-it/conventional-changelog": {
         "infile": "CHANGELOG.md",
-        "preset": {
-          "name": "conventionalcommits",
-          "types": [
-            {
-              "type": "feat",
-              "section": "Features"
-            },
-            {
-              "type": "fix",
-              "section": "Bug Fixes"
-            },
-            {
-              "type": "test",
-              "section": "Tests",
-              "hidden": false
-            },
-            {
-              "type": "chore",
-              "section": "Chores",
-              "hidden": false
-            }
-          ]
-        }
+        "preset": "angular"
       }
     }
   }
