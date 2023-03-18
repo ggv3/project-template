@@ -4,7 +4,6 @@
 
 This is a project template that can be copied for new projects. Repo has been initialized with following libraries:
 
-- [Babel](https://babeljs.io/)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
 - [Husky](https://github.com/typicode/husky)
