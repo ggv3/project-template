@@ -12,7 +12,7 @@ This is a project template that can be copied for new projects. Repo has been in
 
 ### Version control
 
-This project uses slightly modified [Angular commit guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) which are enforced by Commitizen and `CHANGELOG.md` is automatically generated from commits messages.
+This project [Angular commit guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits) which are enforced by Commitizen and `CHANGELOG.md` is automatically generated from commits messages.
 
 Release commits are made when new code is pushed in `dev` branch.
 
