@@ -1,5 +1,12 @@
 
 
+# [0.5.0](https://github.com/ggv3/project-template/compare/0.4.0...0.5.0) (2023-03-18)
+
+
+### Features
+
+* update README, remove unnecessary dependencies ([c4fa2b9](https://github.com/ggv3/project-template/commit/c4fa2b9f2e48e34915e36ec16daaf61b809ad005))
+
 # [0.4.0](https://github.com/ggv3/project-template/compare/0.3.0...0.4.0) (2023-03-18)
 
 
