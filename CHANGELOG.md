@@ -1,5 +1,12 @@
 
 
+# [0.4.0](https://github.com/ggv3/project-template/compare/0.3.0...0.4.0) (2023-03-18)
+
+
+### Features
+
+* move from js -> ts ([9528acd](https://github.com/ggv3/project-template/commit/9528acdba324b938883eb645354556671d3ecc21))
+
 # [0.3.0](https://github.com/ggv3/project-template/compare/0.1.1...0.3.0) (2022-12-03)
 
 
