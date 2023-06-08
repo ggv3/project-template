@@ -27,6 +27,6 @@ Release commits are made when new code is pushed in `dev` branch.
 - Init new git repository
 - Update `package.json`
   - Update name
-  - Update description
+  - Update descriptionsdsd
   - Set `version` to 0.0.0
 - Commit changes
