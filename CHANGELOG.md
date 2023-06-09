@@ -1,5 +1,12 @@
 
 
+# [0.6.0](https://github.com/ggv3/project-template/compare/0.5.2...0.6.0) (2023-06-09)
+
+
+### Features
+
+* use nodemon instead of tsx ([0b9e53b](https://github.com/ggv3/project-template/commit/0b9e53b42d67b09d703fd122f7d28647850ede1d))
+
 ## [0.5.2](https://github.com/ggv3/project-template/compare/0.5.1...0.5.2) (2023-06-08)
 
 ## [0.5.1](https://github.com/ggv3/project-template/compare/0.5.0...0.5.1) (2023-03-18)
