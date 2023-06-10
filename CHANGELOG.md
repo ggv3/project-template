@@ -1,5 +1,12 @@
 
 
+# [0.7.0](https://github.com/ggv3/project-template/compare/0.6.0...0.7.0) (2023-06-10)
+
+
+### Features
+
+* update packages, add tsconfig ([058ed92](https://github.com/ggv3/project-template/commit/058ed92e34a20a8c3714337977c68a80f81fde02))
+
 # [0.6.0](https://github.com/ggv3/project-template/compare/0.5.2...0.6.0) (2023-06-09)
 
 
