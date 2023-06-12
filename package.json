@@ -1,6 +1,6 @@
 {
   "name": "project-template",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Project template with automated versioning",
   "main": "src/index.ts",
   "scripts": {

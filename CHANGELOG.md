@@ -1,5 +1,7 @@
 
 
+## [0.7.1](https://github.com/ggv3/project-template/compare/0.7.0...0.7.1) (2023-06-12)
+
 # [0.7.0](https://github.com/ggv3/project-template/compare/0.6.0...0.7.0) (2023-06-10)
 
 
